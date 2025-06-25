@@ -2,7 +2,7 @@
 
 /* Fontes */
 @font-face {
-    font-family: 'texto';
+    font-family: "Open Dyslexic";
     src: url(../fonts/open-dyslexic.ttf) format(truetype);
 }
 
@@ -36,7 +36,7 @@ button {
     --rosa-clara: #ff97a8;
     --vermelha-escura: #D5405E;
     --vermelha-clara: #FEE3E8;
-    --texto: 'texto';
+    --texto: "Open Dyslexic";
     --padrao: Arial, Helvetica, sans-serif;
 }
 

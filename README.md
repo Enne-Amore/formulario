@@ -80,6 +80,18 @@
  | Vermelha Clara  | `#FEE3E8`   |
 
 
+## 🔤 Fontes Tipográficas
+
+ - **Open Dyslexic**  
+   Exemplo de uso:  
+   `font-family: "Open Dyslexic";` ou 
+   `font-family: var(--texto);`
+ - **Arial, Helvetica, Sans-Serif**  
+   Exemplo de uso:  
+   `font-family: Arial, Helvetica, sans-serif;` ou 
+   `font-family: var(--padrao);`
+
+
 ## 🌟 Referências de Uso
 
  - [Freepik](https://www.freepik.com)
