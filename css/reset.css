@@ -30,10 +30,6 @@ button {
     cursor: pointer;
 }
 
-:focus {
-    outline: 0;
-}
-
 /* Variáveis CSS */
 :root {
     --rosa-escura: #d40c6a;
