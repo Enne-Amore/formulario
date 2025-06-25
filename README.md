@@ -4,6 +4,11 @@
  Um site web com um formulário simples pedindo nome, email e senha, e tem um botão de resetar todos os campos de preenchimento além do botão de enviar. Essa página é mais concentrada em validação de dados.
 
 
+## 🌐 Aplicação Hospedada
+
+ [Clique aqui para acessar o website](https://enne-amore.github.io/formulario/)
+
+
 ## 🪄 Funcionalidades
  
  - Mais acessibilidade usando a tecla "tab"
@@ -12,21 +17,16 @@
  - Botão de resetar todos os campos de preenchimento
 
 
-## ✅ Demonstração
-
- [Clique aqui para acessar o meu site](https://enne-amore.github.io/formulario/)
-
-
 ## 🚀 Tecnologias Utilizadas
 
  <p align="left">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/2048px-Official_CSS_Logo.svg.png" title="CSS" alt="CSS" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
  </p>
 
 
-## 🌈 Documentação de Cores
+## 🌈 Cores
 
  | Cor             | Hexadecimal |
  | --------------- | ----------- |
