@@ -14,7 +14,7 @@
  <img src="img/preview.gif" alt="Pré-visualização do site" width="340" height="200">
 
 
-## 🪄 Funcionalidades
+## ⚡ Funcionalidades
  
  - Mais acessibilidade usando a tecla "tab"
  - Efeitos de "hover" e de "active" nos elementos clicáveis
@@ -81,8 +81,8 @@
 
  | Cor             | Hexadecimal |
  | --------------- | ----------- |
- | Rosa Escura     | `#d40c6a`   |
- | Rosa Clara      | `#ff97a8`   |
+ | Rosa Escura     | `#D40C6A`   |
+ | Rosa Clara      | `#FF97A8`   |
  | Vermelha Escura | `#D5405E`   |
  | Vermelha Clara  | `#FEE3E8`   |
 
