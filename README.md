@@ -14,7 +14,7 @@
  <img src="img/preview.gif" alt="Pré-visualização do site" width="340" height="200">
 
 
-## 🪄 Funcionalidades
+## ⚡ Funcionalidades
  
  - Mais acessibilidade usando a tecla "tab"
  - Efeitos de "hover" e de "active" nos elementos clicáveis
