@@ -26,6 +26,29 @@
  </p>
 
 
+## 📂 Estrutura do Projeto
+
+ ```plaintext
+ formulario/
+ ├── css/                    # Arquivos CSS
+ │   ├── reset.css       
+ │   ├── responsive.css  
+ │   ├── style.css       
+ ├── docs/                   # Arquivos de documentação do projeto
+ │   ├── autorias.txt
+ ├── fonts/                  # Arquivos das fontes utilizadas  
+ │   ├── open-dyslexic.ttf
+ ├── img/                    # Imagens utilizadas  
+ │   ├── fundo.png  
+ │   ├── icone.png
+ ├── js/                     # Arquivos JavaScript
+ │   ├── form-validacao.js
+ │   ├── ver-senha.js
+ ├── index.html              # Arquivo principal de renderização
+ ├── README.md
+ ```
+
+
 ## 🌈 Cores
 
  | Cor             | Hexadecimal |
